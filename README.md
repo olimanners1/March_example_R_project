@@ -11,3 +11,5 @@ This is the boxplot
 ![boxplot](images/boxplot.png)
 
 Checking a README update
+
+#This is an interesting way of running a boxplot as a function
